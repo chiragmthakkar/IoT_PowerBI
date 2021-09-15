@@ -27,16 +27,13 @@ The highest Gross sales was made by the Government segment globally.
 The following countires lead the respective segments:
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| :Segment |:Country|  
+| Small business | USA |  
+| Mid market  | France |  
+| Government | France |  
 
-
-| :Segment |:Country|
-| Small business | USA |
-| Mid market  | France |
-| Government | France |
-
-Enterprise USA
-Channel Partners Canada
+|Enterprise | USA |
+|Channel Partners | Canada|
 
 
 
