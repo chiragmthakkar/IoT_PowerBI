@@ -23,16 +23,20 @@ Financial Data consisting of various countries, sales, profit, segments
 
 ## Screenshots:
 
-![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/1.png)
+**Sales by country**
+![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/5.png)
 ---
+
+**Sales by country**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/2.png)
 ---
+
+**Sales by country**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/3.png)
 ---
 
+**Sales by country**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/4.png)
----
-![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/5.png)
 ---
 
 
