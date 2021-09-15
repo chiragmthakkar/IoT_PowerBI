@@ -43,6 +43,8 @@ The diversity of the data along with the 700 entries was one of the main reasons
 5. Also, all the countries except Germany saw a sudden rise in sales around June for the midmarket segment.
 
 
+## Dashboard:
+
 The multi-page dashboard represents the sales of products for a given segment. It also provides the user with the ability to compare variety of data - country, date range, segment, month
 
 ## Screenshots:
@@ -61,7 +63,7 @@ The multi-page dashboard represents the sales of products for a given segment. I
 
 
 
-_**Note:** In case the website is down please mail me at a1806400@student.adelaide.edu.au_
+_**Note:** In case of any issues please mail me at a1806400@student.adelaide.edu.au_
 
 
 
