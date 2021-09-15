@@ -31,7 +31,7 @@ The diversity of the data along with the 700 entries was one of the main reasons
 3. Getting the highest sold products - both month wise and annually is difficult with normal visualization tools.
 4. Available tools are too time consuming.
 
-**Key insights**
+**Key insights** (_All the insights are for the period of 1/9/13-1/12/14_)
 
 1. Paseo was the highest sold product and also the highest profitable product, followed by VTT.
 2. The highest Gross sales was made by the Government segment (56.4 Million $) globally.
