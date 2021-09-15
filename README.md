@@ -8,8 +8,16 @@
 
 **Description:** Often at times it is difficult to predict the sentiment of a text. This text can be in the form of a text message/tweet/news/email/etc. What if the system/app predicts the user’s sentiment by analysing the text?  MoodGuesserApp is developed to predict the users sentiments. It uses the Azure text-analytics services to perform sentimental analysis.
 
+Power BI learning path completed
 
 **Dataset**
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+          
+          
 Financial Data consisting of various countries, sales, profit, segments
 
 
