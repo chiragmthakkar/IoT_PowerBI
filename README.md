@@ -7,7 +7,7 @@
 ## IoT_PowerBI
 
 **Description:** 
-Project path 2 was choosen for the AI project. Power BI was used as a visualization tool for the selected dataset. Also, as the pre-requisite the Power BI learning path was also completed.
+Project path 2 was choosen for the AI project. Power BI was used as a visualization tool for the selected dataset. Also, as the pre-requisite the Power BI learning path was also completed. A Financial data consisting of 700 rows was choosen for the data analysis. Key insights, Dashboard screenshots and videos are described in the sections below.
 
 **Dataset**
 
@@ -62,7 +62,10 @@ The multi-page dashboard represents the sales of products for a given segment. I
 ---
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/1.mov)
+[Link to dashboard video-1](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/1.mov)
+[Link to dashboard video-2](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/2.mov)
+[Link to dashboard video-3](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/3.mov)
+
 
 _**Note:** In case of any issues please mail me at a1806400@student.adelaide.edu.au_
 
