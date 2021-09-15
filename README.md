@@ -62,9 +62,12 @@ The multi-page dashboard represents the sales of products for a given segment. I
 ---
 
 
-[Link to dashboard video-1](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/1.mov)
-[Link to dashboard video-2](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/2.mov)
-[Link to dashboard video-3](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/3.mov)
+[Link to dashboard video-1](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/1.mov)  
+[Link to dashboard video-2](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/2.mov)  
+[Link to dashboard video-3](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/3.mov)  
+
+
+[Link to the dashboard](https://app.powerbi.com/groups/me/reports/d0f03933-dfb0-4a21-b4b5-8b453cfca911?ctid=b3cddf40-9654-4a26-86a1-779c51f69c48&pbi_source=linkShare)
 
 
 _**Note:** In case of any issues please mail me at a1806400@student.adelaide.edu.au_
