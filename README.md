@@ -12,12 +12,12 @@
 **Dataset**
 Financial Data consisting of various countries, sales, profit, segments
 
+**Screenshot of the database**
+![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/database.png)
 
 
 [Link to dataset](https://github.com/parulnith/Data-Visualisation-libraries/blob/master/Data%20Visualisation%20with%20Power%20BI/Financial%20Sample.xlsx)
 
-
-**Screenshots**
 
 **Key insights**
 
