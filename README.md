@@ -6,7 +6,7 @@
 
 ## IoT_PowerBI
 
-**Description:** 
+## Description:
 Project path 2 was choosen for the AI project. Power BI was used as a visualization tool for the selected dataset. Also, as the pre-requisite the Power BI learning path was also completed. A Financial data consisting of 700 rows was choosen for the data analysis. Key insights, Dashboard screenshots and videos are described in the sections below.
 
 **Dataset**
@@ -24,6 +24,12 @@ The diversity of the data along with the 700 entries was one of the main reasons
 
 [Link to dataset](https://github.com/parulnith/Data-Visualisation-libraries/blob/master/Data%20Visualisation%20with%20Power%20BI/Financial%20Sample.xlsx)
 
+**Relevant Problems**
+
+1. Difficult to get the sales/segment-wise/profit visualization.
+2. There are too many parameters which have to be considered for making a decision. 
+3. Getting the highest sold products - both month wise and annually is difficult with normal visualization tools.
+4. Available tools are too time consuming.
 
 **Key insights**
 
@@ -45,9 +51,9 @@ The diversity of the data along with the 700 entries was one of the main reasons
 
 ## Dashboard:
 
-The multi-page dashboard represents the sales of products for a given segment. It also provides the user with the ability to compare variety of data - country, date range, segment, month
+The multi-page dashboard represents the sales of products for a given segment. It also provides the user with the ability to compare variety of data - country, date range, segment, month, etc. Following are the screenshots from the dashboard:
 
-## Screenshots:
+**Screenshots:**
 
 **Sales visualization-1**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/5.png)
