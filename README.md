@@ -12,10 +12,10 @@ Power BI learning path completed
 
 **Dataset**
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Bullet list
+    * Nested bullet
+    * Hel
+* Bullet list item 2
           
           
 Financial Data consisting of various countries, sales, profit, segments
