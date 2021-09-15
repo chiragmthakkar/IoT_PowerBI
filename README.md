@@ -12,27 +12,47 @@
 **Dataset**
 Financial Data consisting of various countries, sales, profit, segments
 
-**Screenshot of the database**
-![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/database.png)
 
 
 [Link to dataset](https://github.com/parulnith/Data-Visualisation-libraries/blob/master/Data%20Visualisation%20with%20Power%20BI/Financial%20Sample.xlsx)
 
 
+**Screenshots**
+
 **Key insights**
+
+Paseo was the highest sold product and also the highest profitable product, followed by VTT.
+The highest Gross sales was made by the Government segment globally.
+
+The following countires lead the respective segments:
+
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+
+
+| :Segment |:Country|
+| Small business | USA |
+| Mid market  | France |
+| Government | France |
+
+Enterprise USA
+Channel Partners Canada
+
+
+
+The multi-page dashboard represents the sales of products for a given segment. It also provides the user with the ability to compare variety of data - country, date range, segment, month
 
 ## Screenshots:
 
-**Sales by country**
+**Sales visualization-1**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/5.png)
 ---
 
-
-**Sales by country**
+**Sales visualization-2**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/3.png)
 ---
 
-**Sales by country**
+**Sales and profit by product**
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/4.png)
 ---
 
