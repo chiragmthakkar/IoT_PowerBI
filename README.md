@@ -12,15 +12,13 @@ Power BI learning path completed
 
 **Dataset**
 
-* Bullet list
-    * Nested bullet
-    * Hel
-* Bullet list item 2
-          
-          
-Financial Data consisting of various countries, sales, profit, segments
-
-
+* Financial Data consists of data collected from various countries w.r.t various products and segments. Following are the few important features displayed in this dataset:
+    * Countries
+    * Sales
+    * Profit
+    * Segments
+    * Product
+    * Discount Band
 
 [Link to dataset](https://github.com/parulnith/Data-Visualisation-libraries/blob/master/Data%20Visualisation%20with%20Power%20BI/Financial%20Sample.xlsx)
 
