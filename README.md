@@ -10,7 +10,7 @@
 Project path 2 was choosen for the IoT project. Power BI was used as a visualization tool for the selected dataset. Also, as the pre-requisite the Power BI learning path was also completed. A Financial data consisting of 700 rows was choosen for the data analysis. Key insights, Dashboard screenshots and videos are described in the sections below.
 
 **Report**
-[Link to report](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/1.mov)  
+[Link to report](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/MSA2021_IoT.pdf)  
 
 
 **Dataset**
