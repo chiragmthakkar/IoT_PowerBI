@@ -17,7 +17,7 @@ Project path 2 was choosen for the IoT project. Power BI was used as a visualiza
     * Profit
     * Segments
     * Product
-    * Discount Band
+    * Discount Band  
 The diversity of the data along with the 700 entries was one of the main reasons for selecting this dataset. Following is the screenshot for the selected data:
 
 ![alt text](https://github.com/chiragmthakkar/IoT_PowerBI/blob/main/Screenshots/database.png)
